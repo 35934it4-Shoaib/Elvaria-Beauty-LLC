@@ -1,6 +1,41 @@
 import express from 'express';
 import path from 'path';
+import path from 'path';
 import { fileURLToPath } from 'url';
+
+// Safe replacement for CJS bundle compatibility
+const __filename = typeof __filename !== 'undefined' 
+  ? __filename 
+ import path from 'path';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+// Safe replacement for CJS bundle compatibility
+const __filename = typeof __filename !== 'undefined' 
+  ? __filename 
+  : (typeof import.meta !== 'undefined' && (import.meta as any).url 
+      ? fileURLToPath((import.meta as any).url) 
+      : __filename);
+
+const __dirname = typeof __dirname !== 'undefined' 
+  ? __dirname 
+  : (typeof __filename !== 'undefined' ? path.dirname(__filename) : process.cwd());
+// Safe replacement for CJS bundle compatibility
+const __filename = typeof __filename !== 'undefined' 
+  ? __filename 
+  : (typeof import.meta !== 'undefined' && (import.meta as any).url 
+      ? fileURLToPath((import.meta as any).url) 
+      : __filename);
+
+const __dirname = typeof __dirname !== 'undefined' 
+  ? __dirname 
+  : (typeof __filename !== 'undefined' ? path.dirname(__filename) : process.cwd());
+      ? fileURLToPath((import.meta as any).url) 
+      : __filename);
+
+const __dirname = typeof __dirname !== 'undefined' 
+  ? __dirname 
+  : (typeof __filename !== 'undefined' ? path.dirname(__filename) : process.cwd());
 import { db } from './server/db.js';
 import dotenv from 'dotenv';
 
