@@ -1,18 +1,6 @@
 import express from 'express';
 import path from 'path';
 import { fileURLToPath } from 'url';
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-const __dirname = typeof __dirname !== 'undefined' 
-  ? __dirname 
-  : (typeof __filename !== 'undefined' ? path.dirname(__filename) : process.cwd());
-      ? fileURLToPath((import.meta as any).url) 
-      : __filename);
-
-const __dirname = typeof __dirname !== 'undefined' 
-  ? __dirname 
-  : (typeof __filename !== 'undefined' ? path.dirname(__filename) : process.cwd());
 import { db } from './server/db.js';
 import dotenv from 'dotenv';
 
@@ -21,6 +9,10 @@ dotenv.config();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.use(express.json());
 const app = express();
 const PORT = 3000;
 
