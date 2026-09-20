@@ -1,0 +1,773 @@
+{
+  "categories": [
+    {
+      "id": "cat-body-care",
+      "name": "Body Care",
+      "slug": "body-care",
+      "description": "Gentle everyday washes, conditioners, and nourishing rituals.",
+      "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?auto=format&fit=crop&w=800&q=85",
+      "order": 1,
+      "status": "active"
+    },
+    {
+      "id": "cat-medicated-care",
+      "name": "Medicated Care",
+      "slug": "medicated-care",
+      "description": "Targeted hydration formulas to relieve roughness and tightness.",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=85",
+      "order": 2,
+      "status": "active"
+    },
+    {
+      "id": "cat-moisturizers",
+      "name": "Moisturizers",
+      "slug": "moisturizers",
+      "description": "Cushiony creams and lightweight daily hydrators.",
+      "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=800&q=85",
+      "order": 3,
+      "status": "active"
+    },
+    {
+      "id": "cat-sensitive-skin",
+      "name": "Sensitive Skin",
+      "slug": "sensitive-skin",
+      "description": "Fragrance-free, dermatologist-inspired comforting essentials.",
+      "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=85",
+      "order": 4,
+      "status": "active"
+    },
+    {
+      "id": "cat-tools-accessories",
+      "name": "Tools & Accessories",
+      "slug": "tools-accessories",
+      "description": "Application tools, dry brushes, and travel essentials.",
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=85",
+      "order": 5,
+      "status": "active"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-elvaria-body-lotion",
+      "name": "ELVARIA Medicated Body Lotion",
+      "slug": "elvaria-medicated-body-lotion",
+      "sku": "ELV-MBL-250",
+      "shortDescription": "Daily moisture and comfort for skin that feels dry, rough or sensitive.",
+      "description": "ELVARIA BEAUTY Medicated Body Lotion is designed to become an essential part of your daily body-care routine. Its moisturizing approach is formulated to leave dry-feeling skin feeling softer, smoother, and deeply comforted without a sticky or heavy residue.",
+      "price": 29,
+      "salePrice": 26,
+      "size": "250 ml / 8.4 fl oz",
+      "category": "Medicated Care",
+      "stock": 120,
+      "lowStockThreshold": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1570197788417-0e82375c9371?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "ingredientIds": [
+        "ing-glycerin",
+        "ing-ceramides",
+        "ing-panthenol",
+        "ing-shea-butter",
+        "ing-vitamin-e"
+      ],
+      "benefits": [
+        {
+          "title": "Deep Moisture Lock",
+          "description": "Helps replenish moisture for dry-feeling skin with prolonged, all-day hydration."
+        },
+        {
+          "title": "Velvety Skin Comfort",
+          "description": "Designed for a soft, silky, and comfortable skin feel that absorbs smoothly."
+        },
+        {
+          "title": "Barrier Support",
+          "description": "Formulated with Ceramides to help reinforce the natural skin moisture barrier."
+        },
+        {
+          "title": "Everyday Ease",
+          "description": "Lightweight, non-greasy absorption suitable for morning and evening routines."
+        }
+      ],
+      "howToUse": [
+        "01. Cleanse — Start with clean, gently patted-dry skin after a shower or bath.",
+        "02. Moisturize — Dispense 1 to 2 pumps into your palms and massage evenly over arms, legs, and body.",
+        "03. Focus — Apply extra attention to dry-prone zones like elbows, knees, and ankles.",
+        "Always follow label directions and store at room temperature."
+      ],
+      "warnings": "For external body use only. Avoid contact with eyes; if contact occurs, rinse thoroughly with clean water. Discontinue use if irritation develops. Keep out of reach of children. Store in a cool, dry place away from direct sunlight.",
+      "seoTitle": "ELVARIA BEAUTY Medicated Body Lotion — Daily Skin Comfort & Hydration",
+      "seoDescription": "Shop ELVARIA BEAUTY Medicated Body Lotion ($29.00). Thoughtful dermatology-inspired daily body care for dry and sensitive-feeling skin. Fast international delivery.",
+      "isFeatured": true,
+      "status": "published",
+      "rating": 4.9,
+      "reviewCount": 48,
+      "bundles": [
+        {
+          "id": "bundle-single",
+          "name": "Single Bottle (250 ml)",
+          "sizeText": "1 × 250 ml pump bottle",
+          "price": 29
+        },
+        {
+          "id": "bundle-duo",
+          "name": "Daily Duo (2-Pack)",
+          "sizeText": "2 × 250 ml bottles",
+          "price": 52,
+          "savingsText": "Save $6.00"
+        },
+        {
+          "id": "bundle-trio",
+          "name": "Family Trio (3-Pack)",
+          "sizeText": "3 × 250 ml bottles",
+          "price": 74,
+          "savingsText": "Save $13.00 + Free Shipping"
+        },
+        {
+          "id": "bundle-routine",
+          "name": "Skin Comfort Routine Bundle",
+          "sizeText": "2 × Lotion + Dry Body Brush",
+          "price": 64,
+          "savingsText": "Best Value Bundle"
+        }
+      ],
+      "createdAt": "2026-09-19T23:56:09.563Z",
+      "updatedAt": "2026-09-19T23:56:09.564Z"
+    },
+    {
+      "id": "prod-rich-barrier-cream",
+      "name": "ELVARIA Rich Barrier Body Cream",
+      "slug": "elvaria-rich-barrier-body-cream",
+      "sku": "ELV-RBC-200",
+      "shortDescription": "Intensive restorative barrier cream for severely dry or moisture-depleted skin.",
+      "description": "A cushiony, lipid-dense cream designed for skin requiring an extra layer of protection. Formulated with triple ceramides, shea butter, and soothing panthenol to lock in deep hydration.",
+      "price": 34,
+      "salePrice": 30,
+      "size": "200 ml / 6.7 fl oz",
+      "category": "Moisturizers",
+      "stock": 85,
+      "lowStockThreshold": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "ingredientIds": [
+        "ing-ceramides",
+        "ing-shea-butter",
+        "ing-glycerin",
+        "ing-vitamin-e"
+      ],
+      "benefits": [
+        {
+          "title": "Intensive Barrier Defense",
+          "description": "Creates a breathable moisture shield against environmental dryness."
+        },
+        {
+          "title": "Ultra-Rich Texture",
+          "description": "Melts on contact to cushion dry skin without suffocating pores."
+        }
+      ],
+      "howToUse": [
+        "01. Scoop a nickel-sized amount with clean hands.",
+        "02. Gently warm between palms and press into skin.",
+        "03. Reapply as needed throughout the day or night."
+      ],
+      "warnings": "For external body use only. Keep out of reach of children.",
+      "seoTitle": "ELVARIA BEAUTY Rich Barrier Body Cream — Deep Moisture Protection",
+      "seoDescription": "Rich restorative body cream with essential ceramides and shea butter.",
+      "isFeatured": true,
+      "status": "published",
+      "rating": 4.8,
+      "reviewCount": 32,
+      "createdAt": "2026-09-19T23:56:09.564Z",
+      "updatedAt": "2026-09-19T23:56:09.564Z"
+    },
+    {
+      "id": "prod-hydrating-body-wash",
+      "name": "ELVARIA Daily Hydrating Body Wash",
+      "slug": "elvaria-daily-hydrating-body-wash",
+      "sku": "ELV-HBW-300",
+      "shortDescription": "Gentle, sulfate-free conditioning wash that cleanses without stripping natural oils.",
+      "description": "A low-lather, pH-balanced cleanser formulated for daily shower rituals. Cleanses away impurities while preserving the delicate skin moisture barrier with glycerin and panthenol.",
+      "price": 24,
+      "size": "300 ml / 10.1 fl oz",
+      "category": "Body Care",
+      "stock": 140,
+      "lowStockThreshold": 20,
+      "images": [
+        "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1570197788417-0e82375c9371?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "ingredientIds": [
+        "ing-glycerin",
+        "ing-panthenol"
+      ],
+      "benefits": [
+        {
+          "title": "Sulfate-Free Cleansing",
+          "description": "Respects skin balance with no tight, squeaky after-feel."
+        },
+        {
+          "title": "Hydrating Rinse",
+          "description": "Leaves skin feeling soft and comfortably prepared for lotion."
+        }
+      ],
+      "howToUse": [
+        "01. Dispense onto damp palms, washcloth, or body scrubber.",
+        "02. Gently massage over body into a silky foam.",
+        "03. Rinse thoroughly with lukewarm water."
+      ],
+      "warnings": "Avoid contact with eyes. In case of contact, rinse thoroughly with water.",
+      "seoTitle": "ELVARIA BEAUTY Daily Hydrating Body Wash — Gentle Sulfate-Free Care",
+      "seoDescription": "Dermatology-inspired daily hydrating body cleanser for dry skin.",
+      "isFeatured": true,
+      "status": "published",
+      "rating": 4.9,
+      "reviewCount": 29,
+      "createdAt": "2026-09-19T23:56:09.564Z",
+      "updatedAt": "2026-09-19T23:56:09.564Z"
+    },
+    {
+      "id": "prod-ceramide-comfort-balm",
+      "name": "ELVARIA Targeted Ceramide Balm",
+      "slug": "elvaria-ceramide-comfort-balm",
+      "sku": "ELV-CCB-100",
+      "shortDescription": "Targeted soothing ointment for rough elbows, knees, heels, and hands.",
+      "description": "Concentrated rescue balm crafted to soothe dry, distressed localized skin patches. Packed with pure lipids and skin-replenishing conditioners.",
+      "price": 22,
+      "size": "100 ml / 3.4 fl oz",
+      "category": "Sensitive Skin",
+      "stock": 90,
+      "lowStockThreshold": 12,
+      "images": [
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "ingredientIds": [
+        "ing-ceramides",
+        "ing-shea-butter",
+        "ing-panthenol"
+      ],
+      "benefits": [
+        {
+          "title": "Targeted Comfort",
+          "description": "Instantly softens persistent dry roughness on high-friction zones."
+        },
+        {
+          "title": "Pocket-Friendly Relief",
+          "description": "Compact tube convenient for bedside or travel application."
+        }
+      ],
+      "howToUse": [
+        "Apply directly to clean dry spots, elbows, cuticles, or cracked heels as needed."
+      ],
+      "warnings": "For external use only. Discontinue if redness occurs.",
+      "seoTitle": "ELVARIA BEAUTY Targeted Ceramide Balm — Localized Skin Relief",
+      "seoDescription": "High-potency soothing balm for parched patches, hands, and heels.",
+      "isFeatured": true,
+      "status": "published",
+      "rating": 5,
+      "reviewCount": 19,
+      "createdAt": "2026-09-19T23:56:09.564Z",
+      "updatedAt": "2026-09-19T23:56:09.564Z"
+    },
+    {
+      "id": "prod-dry-body-brush",
+      "name": "ELVARIA Natural Ionic Dry Body Brush",
+      "slug": "elvaria-dry-body-brush",
+      "sku": "ELV-DBB-001",
+      "shortDescription": "Ergonomic natural bristle brush to gently buff, smooth, and prep skin.",
+      "description": "Crafted from sustainably sourced FSC beechwood and soft natural bristles. Enhances skin smoothness, buffs away surface dead cells, and primes the skin for deeper lotion absorption.",
+      "price": 18,
+      "size": "1 Brush / FSC Beechwood",
+      "category": "Tools & Accessories",
+      "stock": 65,
+      "lowStockThreshold": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1519735777090-ec97162dc266?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "ingredientIds": [],
+      "benefits": [
+        {
+          "title": "Gentle Exfoliation",
+          "description": "Natural bristles buff away flaky surface skin effortlessly."
+        },
+        {
+          "title": "Ergonomic Cotton Strap",
+          "description": "Comfortable hand grip for easy, controlled circular strokes."
+        }
+      ],
+      "howToUse": [
+        "01. Use dry on dry skin before stepping into the shower.",
+        "02. Brush with light, upward strokes toward the heart starting from feet.",
+        "03. Follow with warm shower and ELVARIA BEAUTY Medicated Body Lotion."
+      ],
+      "warnings": "Do not use on broken, irritated, sunburned, or eczema-prone lesions.",
+      "seoTitle": "ELVARIA BEAUTY Natural Ionic Dry Body Brush — Body Care Accessories",
+      "seoDescription": "Premium dry body brush for radiant, smoother skin texture.",
+      "isFeatured": true,
+      "status": "published",
+      "rating": 4.8,
+      "reviewCount": 42,
+      "createdAt": "2026-09-19T23:56:09.564Z",
+      "updatedAt": "2026-09-19T23:56:09.564Z"
+    },
+    {
+      "id": "prod-back-applicator",
+      "name": "ELVARIA Ergonomic Lotion Back Applicator",
+      "slug": "elvaria-back-applicator",
+      "sku": "ELV-EBA-002",
+      "shortDescription": "Folding long-reach applicator to effortlessly apply lotion across the back.",
+      "description": "Never struggle to moisturize your back again. Features an ergonomic folding handle and dense, non-absorbent grooved silicone pads that apply body lotion evenly and smoothly.",
+      "price": 16,
+      "size": "Folding 17-inch Reach",
+      "category": "Tools & Accessories",
+      "stock": 50,
+      "lowStockThreshold": 8,
+      "images": [
+        "https://images.unsplash.com/photo-1519735777090-ec97162dc266?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "ingredientIds": [],
+      "benefits": [
+        {
+          "title": "Complete Body Coverage",
+          "description": "Reaches middle and lower back with minimal arm strain."
+        },
+        {
+          "title": "Hygienic & Washable",
+          "description": "Rinses clean with water; does not harbor bacteria."
+        }
+      ],
+      "howToUse": [
+        "01. Unfold handle until locked.",
+        "02. Dispense 1-2 pumps of lotion directly onto applicator pad.",
+        "03. Glide gently across back and shoulders. Wipe clean after use."
+      ],
+      "warnings": "Keep out of reach of children.",
+      "seoTitle": "ELVARIA BEAUTY Ergonomic Lotion Back Applicator — Easy Reaching",
+      "seoDescription": "Lotion back applicator tool for easy, seamless all-over application.",
+      "isFeatured": false,
+      "status": "published",
+      "rating": 4.9,
+      "reviewCount": 35,
+      "createdAt": "2026-09-19T23:56:09.564Z",
+      "updatedAt": "2026-09-19T23:56:09.564Z"
+    },
+    {
+      "id": "prod-microfiber-body-wrap",
+      "name": "ELVARIA Cloud-Soft Microfiber Body Wrap",
+      "slug": "elvaria-microfiber-body-wrap",
+      "sku": "ELV-MBW-003",
+      "shortDescription": "Frictionless waffle microfiber towel wrap that comforts sensitive skin.",
+      "description": "Standard cotton towels can cause friction and tug on fragile skin. Our cloud-soft microfiber towel wrap absorbs moisture instantaneously without rubbing, featuring an adjustable snap enclosure.",
+      "price": 28,
+      "size": "One Size / Adjustable Snap",
+      "category": "Tools & Accessories",
+      "stock": 45,
+      "lowStockThreshold": 5,
+      "images": [
+        "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1570197788417-0e82375c9371?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "ingredientIds": [],
+      "benefits": [
+        {
+          "title": "Anti-Friction Fabric",
+          "description": "Gentle on sensitized or easily irritated post-shower skin."
+        },
+        {
+          "title": "Secure Hands-Free Fit",
+          "description": "Snap buttons keep wrap securely in place while you moisturize."
+        }
+      ],
+      "howToUse": [
+        "Wrap around chest after shower and secure snaps. Gently pat skin dry."
+      ],
+      "warnings": "Machine wash warm with similar colors. Do not bleach.",
+      "seoTitle": "ELVARIA BEAUTY Cloud-Soft Microfiber Body Wrap — Bath Essentials",
+      "seoDescription": "Ultra-soft microfiber bath wrap for sensitive post-shower skin.",
+      "isFeatured": false,
+      "status": "published",
+      "rating": 4.9,
+      "reviewCount": 22,
+      "createdAt": "2026-09-19T23:56:09.564Z",
+      "updatedAt": "2026-09-19T23:56:09.564Z"
+    },
+    {
+      "id": "prod-silicone-body-scrubber",
+      "name": "ELVARIA Hygienic Silicone Body Scrubber",
+      "slug": "elvaria-silicone-scrubber",
+      "sku": "ELV-SCS-004",
+      "shortDescription": "Antimicrobial silicone scrubber replacing bacteria-harboring loofahs.",
+      "description": "Ditch outdated loofahs that trap moisture and germs. Made from 100% food-grade silicone with ultra-fine flexible bristles that lather easily and rinse completely clean.",
+      "price": 14,
+      "size": "Ergonomic Palm Fit",
+      "category": "Tools & Accessories",
+      "stock": 110,
+      "lowStockThreshold": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "ingredientIds": [],
+      "benefits": [
+        {
+          "title": "100% Hygienic",
+          "description": "Quick-drying and resistant to mold and odor."
+        },
+        {
+          "title": "Gentle Micro-Lather",
+          "description": "Creates a rich lather while gently buffing surface impurities."
+        }
+      ],
+      "howToUse": [
+        "Apply ELVARIA BEAUTY Daily Hydrating Body Wash to bristles and gently lather over wet body."
+      ],
+      "warnings": "Rinse with warm water and hang to dry.",
+      "seoTitle": "ELVARIA BEAUTY Silicone Body Scrubber — Hygienic Bath Care",
+      "seoDescription": "Antimicrobial silicone scrubber for clean, refreshing daily lather.",
+      "isFeatured": false,
+      "status": "published",
+      "rating": 4.8,
+      "reviewCount": 38,
+      "createdAt": "2026-09-19T23:56:09.564Z",
+      "updatedAt": "2026-09-19T23:56:09.564Z"
+    },
+    {
+      "id": "prod-travel-pouch-locks",
+      "name": "ELVARIA Travel Protection Pouch & Pump Locks",
+      "slug": "elvaria-travel-pouch-locks",
+      "sku": "ELV-TPP-005",
+      "shortDescription": "Water-resistant travel pouch with custom clip-locks to prevent pump spills.",
+      "description": "Pack your skincare bottles with total peace of mind. Includes 2 universal pump-neck locks that prevent accidental depression, housed in a spill-resistant vegan leather travel bag.",
+      "price": 12,
+      "size": "Pouch + 2 Clip Locks",
+      "category": "Tools & Accessories",
+      "stock": 75,
+      "lowStockThreshold": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "ingredientIds": [],
+      "benefits": [
+        {
+          "title": "Zero Leakage Guarantee",
+          "description": "Snap locks securely immobilize pump nozzles in luggage."
+        },
+        {
+          "title": "Wipe-Clean Lining",
+          "description": "Internal TPU barrier protects clothing from accidental spills."
+        }
+      ],
+      "howToUse": [
+        "Snap clip lock firmly around the pump neck below the nozzle. Slip bottle into travel pouch."
+      ],
+      "warnings": "Keep away from sharp objects.",
+      "seoTitle": "ELVARIA BEAUTY Travel Protection Pouch & Pump Locks — On-The-Go",
+      "seoDescription": "Travel leak-prevention pump clips and water-resistant pouch.",
+      "isFeatured": false,
+      "status": "published",
+      "rating": 4.7,
+      "reviewCount": 16,
+      "createdAt": "2026-09-19T23:56:09.564Z",
+      "updatedAt": "2026-09-19T23:56:09.564Z"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "ing-glycerin",
+      "name": "Glycerin",
+      "inciName": "Glycerin",
+      "shortDescription": "Essential skin-identical humectant that attracts and locks in water.",
+      "detailedExplanation": "A time-tested humectant naturally present in healthy skin. Glycerin draws moisture from the atmosphere into the epidermis, helping maintain hydration and a comfortable skin feel throughout the day.",
+      "function": "Humectant / Moisture Magnet",
+      "category": "Hydration",
+      "isFeatured": true,
+      "order": 1
+    },
+    {
+      "id": "ing-ceramides",
+      "name": "Ceramide Complex",
+      "inciName": "Ceramide NP, Ceramide AP, Ceramide EOP",
+      "shortDescription": "Lipid building blocks to help support the skin’s natural moisture barrier.",
+      "detailedExplanation": "Ceramides constitute a major portion of the intercellular lipid matrix. Designed to replenish depleted barrier components, assisting in reducing transepidermal water loss in dry-feeling skin.",
+      "function": "Barrier Support / Lipid Replenishment",
+      "category": "Barrier Care",
+      "isFeatured": true,
+      "order": 2
+    },
+    {
+      "id": "ing-panthenol",
+      "name": "Panthenol (Pro-Vitamin B5)",
+      "inciName": "Panthenol",
+      "shortDescription": "Skin-soothing conditioner that calms and relieves dry, tight skin feelings.",
+      "detailedExplanation": "Pro-Vitamin B5 penetrates the outer skin layers to deliver comforting hydration, helping ease feelings of skin tightness, roughness, and seasonal environmental irritation.",
+      "function": "Soothing / Conditioning",
+      "category": "Comfort",
+      "isFeatured": true,
+      "order": 3
+    },
+    {
+      "id": "ing-shea-butter",
+      "name": "Purified Shea Butter",
+      "inciName": "Butyrospermum Parkii (Shea) Butter",
+      "shortDescription": "Gentle, rich emollient that softens rough patches with a non-greasy finish.",
+      "detailedExplanation": "Rich in fatty acids and vitamins A and E, purified shea butter melts smoothly at skin temperature to create a protective, cushiony layer without suffocating the skin or feeling heavy.",
+      "function": "Emollient / Softening",
+      "category": "Nourishment",
+      "isFeatured": true,
+      "order": 4
+    },
+    {
+      "id": "ing-vitamin-e",
+      "name": "Vitamin E",
+      "inciName": "Tocopheryl Acetate",
+      "shortDescription": "Antioxidant skin protector that enhances overall smoothness.",
+      "detailedExplanation": "A staple antioxidant in dermatological skincare that helps protect formula integrity and provides gentle conditioning for skin exposed to dry indoor air and urban elements.",
+      "function": "Antioxidant / Conditioning",
+      "category": "Protection",
+      "isFeatured": true,
+      "order": 5
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-sample-1",
+      "productId": "prod-elvaria-body-lotion",
+      "productName": "ELVARIA Medicated Body Lotion",
+      "authorName": "Sarah M., Verified Customer",
+      "authorEmail": "sarah.m@example.com",
+      "rating": 5,
+      "title": "Remarkable comfort for dry winter skin",
+      "content": "Sample Review: The texture is rich yet absorbs almost immediately. My legs and elbows felt soothed without that sticky coating that ruins pajama silk.",
+      "date": "2026-03-12",
+      "isVerifiedPurchase": true,
+      "isApproved": true,
+      "status": "approved",
+      "isFeatured": true
+    },
+    {
+      "id": "rev-sample-2",
+      "productId": "prod-elvaria-body-lotion",
+      "productName": "ELVARIA Medicated Body Lotion",
+      "authorName": "Elena R., Verified Buyer",
+      "authorEmail": "elena.r@example.com",
+      "rating": 5,
+      "title": "Finally something that calms tightness",
+      "content": "Sample Review: I have very dry, sensitive-feeling skin especially after showering. ELVARIA BEAUTY has become my holy grail post-bath step.",
+      "date": "2026-03-04",
+      "isVerifiedPurchase": true,
+      "isApproved": true,
+      "status": "approved",
+      "isFeatured": true
+    },
+    {
+      "id": "rev-sample-3",
+      "productId": "prod-rich-barrier-cream",
+      "productName": "ELVARIA Rich Barrier Body Cream",
+      "authorName": "Marcus T., Verified Customer",
+      "authorEmail": "marcus.t@example.com",
+      "rating": 5,
+      "title": "Deep hydration without any artificial fragrance",
+      "content": "Sample Review: Truly fragrance-free and deeply hydrating. It rescued my dry cracked hands after cold weather exposure.",
+      "date": "2026-02-28",
+      "isVerifiedPurchase": true,
+      "isApproved": true,
+      "status": "approved",
+      "isFeatured": true
+    }
+  ],
+  "coupons": [
+    {
+      "id": "coup-welcome10",
+      "code": "WELCOME10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "discountPercentage": 10,
+      "minOrderAmount": 30,
+      "maxDiscountAmount": 20,
+      "usageLimit": 1000,
+      "usageCount": 18,
+      "description": "10% off your first ELVARIA BEAUTY order over $30",
+      "isActive": true
+    },
+    {
+      "id": "coup-comfort15",
+      "code": "COMFORT15",
+      "discountType": "percentage",
+      "discountValue": 15,
+      "discountPercentage": 15,
+      "minOrderAmount": 50,
+      "maxDiscountAmount": 30,
+      "usageLimit": 500,
+      "usageCount": 24,
+      "description": "15% off skin comfort routine orders over $50",
+      "isActive": true
+    },
+    {
+      "id": "coup-derma5",
+      "code": "DERMA5",
+      "discountType": "fixed",
+      "discountValue": 5,
+      "discountFixed": 5,
+      "minOrderAmount": 25,
+      "usageLimit": 500,
+      "usageCount": 14,
+      "description": "$5.00 off any order over $25",
+      "isActive": true
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-daily",
+      "question": "Can I use ELVARIA BEAUTY every day?",
+      "answer": "Yes. ELVARIA BEAUTY Medicated Body Lotion is thoughtfully formulated for everyday use. We recommend applying it once or twice daily, particularly after bathing when skin absorbs moisture most effectively.",
+      "category": "usage",
+      "order": 1,
+      "isPublished": true
+    },
+    {
+      "id": "faq-when-apply",
+      "question": "When should I apply body lotion?",
+      "answer": "The ideal time to apply ELVARIA BEAUTY is within three minutes of exiting the shower or bath while your skin is still slightly damp. This helps seal in ambient surface hydration and leaves skin feeling supple.",
+      "category": "usage",
+      "order": 2,
+      "isPublished": true
+    },
+    {
+      "id": "faq-sensitive",
+      "question": "Is it suitable for sensitive-feeling skin?",
+      "answer": "ELVARIA BEAUTY is formulated with gentle, non-irritating, dermatologist-inspired ingredients specifically designed to comfort skin that feels easily dry, tight, or sensitive. However, we always recommend conducting a patch test on a small area of your inner arm prior to widespread use.",
+      "category": "ingredients",
+      "order": 3,
+      "isPublished": true
+    },
+    {
+      "id": "faq-children",
+      "question": "Can children use it?",
+      "answer": "ELVARIA BEAUTY is intended primarily for adults and teens. While the ingredients are gentle, for infants and young children under 3 years old, we advise consulting your pediatrician before introducing new body care products.",
+      "category": "general",
+      "order": 4,
+      "isPublished": true
+    },
+    {
+      "id": "faq-face",
+      "question": "Can I use it on my face?",
+      "answer": "ELVARIA BEAUTY was specifically formulated as a rich body lotion. While its ingredients are skin-friendly, facial skin possesses higher sebum gland density and different pore characteristics. We recommend keeping this product for body care and using a dedicated facial moisturizer for the face.",
+      "category": "usage",
+      "order": 5,
+      "isPublished": true
+    },
+    {
+      "id": "faq-how-much",
+      "question": "How much should I apply?",
+      "answer": "Start with 1 to 2 pumps per limb. ELVARIA BEAUTY spreads smoothly and absorbs with a comfortable, non-greasy finish. You can apply more to areas prone to dryness such as elbows, knees, and ankles.",
+      "category": "usage",
+      "order": 6,
+      "isPublished": true
+    },
+    {
+      "id": "faq-storage",
+      "question": "How should I store the product?",
+      "answer": "Store your bottle upright in a cool, dry place away from direct sunlight, ideally between 15°C and 28°C (59°F–82°F). Keep the pump mechanism clean and twist-locked when traveling.",
+      "category": "general",
+      "order": 7,
+      "isPublished": true
+    },
+    {
+      "id": "faq-eczema",
+      "question": "Does ELVARIA BEAUTY treat eczema or psoriasis?",
+      "answer": "No. ELVARIA BEAUTY Medicated Body Lotion is designed for cosmetic moisturization and comforting dry, sensitive-feeling skin. It is not formulated to diagnose, cure, mitigate, treat, or prevent medical skin diseases such as eczema, psoriasis, or bacterial/fungal infections. If you suspect you have a clinical skin condition, please seek guidance from a licensed dermatologist or medical doctor.",
+      "category": "medical",
+      "order": 8,
+      "isPublished": true
+    },
+    {
+      "id": "faq-shipping-intl",
+      "question": "What are the international shipping options and timeframes?",
+      "answer": "We offer complimentary standard shipping on all orders over $50.00. Standard delivery typically takes 3–5 business days within the United States and Canada, and 6–10 business days for international destinations. Expedited shipping is available at checkout.",
+      "category": "shipping",
+      "order": 9,
+      "isPublished": true
+    },
+    {
+      "id": "faq-returns",
+      "question": "What is your return and refund policy?",
+      "answer": "We offer a 30-day satisfaction guarantee. If ELVARIA BEAUTY does not meet your skin comfort expectations, contact care@ELVARIA BEAUTY.com with your order number for an easy, hassle-free return or full product refund.",
+      "category": "general",
+      "order": 10,
+      "isPublished": true
+    }
+  ],
+  "orders": [],
+  "users": [
+    {
+      "id": "usr-admin",
+      "name": "ELVARIA BEAUTY Administrator",
+      "email": "admin@elvariabeauty.com",
+      "phone": "+18005553376",
+      "role": "admin",
+      "addresses": [],
+      "wishlistProductIds": [
+        "prod-elvaria-body-lotion"
+      ],
+      "createdAt": "2026-09-19T23:56:09.564Z",
+      "passwordHash": "cb76769f2eaf9cc4eec75cc855aa30bae32c20055c7283acd71080b1567da70b"
+    },
+    {
+      "id": "usr-demo-customer",
+      "name": "Jane Doe",
+      "email": "customer@elvariabeauty.com",
+      "phone": "+18005553376",
+      "role": "customer",
+      "addresses": [
+        {
+          "id": "addr-demo-1",
+          "fullName": "Jane Doe",
+          "phone": "+1 (555) 234-5678",
+          "streetAddress": "742 Evergreen Terrace",
+          "city": "Springfield",
+          "province": "OR",
+          "postalCode": "97477",
+          "isDefault": true
+        }
+      ],
+      "wishlistProductIds": [
+        "prod-elvaria-body-lotion",
+        "prod-dry-body-brush"
+      ],
+      "createdAt": "2026-09-19T23:56:09.564Z",
+      "passwordHash": "882b85ffd0a51ba6215ebe4d60fda72f363afec3707ab6c2afc070c6dc52b39d"
+    }
+  ],
+  "settings": {
+    "brandName": "ELVARIA BEAUTY",
+    "storeName": "ELVARIA BEAUTY",
+    "tagline": "Comfort Starts With Your Skin.",
+    "secondaryTagline": "Thoughtfully designed body care for skin that deserves everyday comfort.",
+    "announcementText": "Complimentary standard shipping on all international orders over $50.",
+    "announcementEnabled": true,
+    "freeShippingThreshold": 50,
+    "standardShippingFee": 5,
+    "currency": "USD",
+    "currencySymbol": "$",
+    "whatsappPhone": "+18005553376",
+    "whatsappDefaultMessage": "Hello ELVARIA BEAUTY Team, I would like assistance with my order.",
+    "contactEmail": "care@elvariabeauty.com",
+    "supportEmail": "care@elvariabeauty.com",
+    "contactPhone": "+1 (800) 555-ELVARIA",
+    "contactAddress": "ELVARIA BEAUTY LLC, 450 Lexington Ave, New York, NY 10017",
+    "instagramUrl": "https://instagram.com/elvariabeauty",
+    "facebookUrl": "https://facebook.com/elvariabeauty",
+    "tiktokUrl": "https://tiktok.com/@elvariabeauty",
+    "medicalDisclaimer": "Placeholder disclaimer: ELVARIA BEAUTY products are formulated for cosmetic moisturization and daily skincare comfort. Statements on this website have not been evaluated by regulatory health authorities (such as the US FDA). ELVARIA BEAUTY does not claim to diagnose, treat, cure, or prevent any disease, eczema, psoriasis, or infection. Always follow label directions and consult a licensed physician or dermatologist for medical skin conditions.",
+    "placeholderClaimsWarning": "Notice: Product details and ingredient listings currently displayed are development placeholders and must be verified against actual approved packaging before commercial release.",
+    "stripeEnabled": true
+  },
+  "contactMessages": [],
+  "newsletterSubscribers": []
+}
