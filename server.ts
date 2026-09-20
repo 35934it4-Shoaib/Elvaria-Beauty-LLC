@@ -13,10 +13,6 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
-const app = express();
-const PORT = 3000;
-
-app.use(express.json());
 
 // Request logging middleware
 app.use((req, res, next) => {
