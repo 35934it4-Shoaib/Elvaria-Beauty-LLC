@@ -439,7 +439,7 @@
     },
     {
       "id": "prod-travel-pouch-locks",
-      "name": "ELVARIA Travel Protection Pouch & Pump Locks",
+      "name": "Travel Protection Pouch & Pump Locks",
       "slug": "elvaria-travel-pouch-locks",
       "sku": "ELV-TPP-005",
       "shortDescription": "Water-resistant travel pouch with custom clip-locks to prevent pump spills.",
@@ -450,7 +450,7 @@
       "stock": 75,
       "lowStockThreshold": 10,
       "images": [
-        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=85"
+        "https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/silcone%20body%20scaper.jpeg"
       ],
       "ingredientIds": [],
       "benefits": [
