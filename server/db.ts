@@ -782,11 +782,9 @@ class Database {
         const content = fs.readFileSync(DB_FILE, 'utf-8');
         const parsed = JSON.parse(content);
         
-        const cleanImageUrl = (url: string) => {
-          if (!url) return 'https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=85';
-          if (url.includes('1608248597359')) {
-            return 'https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=800&q=85';
-          }
+      const cleanImageUrl = (url: string) => {
+  return url; // Seedha aapka diya hua raw link hi return karega
+};
           if (url.includes('1512290900672')) {
             return 'https://images.unsplash.com/photo-1519735777090-ec97162dc266?auto=format&fit=crop&w=1200&q=85';
           }
