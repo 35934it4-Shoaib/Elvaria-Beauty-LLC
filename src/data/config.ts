@@ -80,7 +80,7 @@ const BASE_PRODUCT_ASSETS: Record<string, string[]> = {
   // ELVARIA Targeted Ceramide Comfort Balm (100 ml)
   'elvaria-ceramide-comfort-balm': [
     'https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1200&q=85',
-    'https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1200&q=85',
+    'https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/Skincare_products_in_botanical_e…_2K_20260921122139.jpeg',
   ],
 
   // ELVARIA Natural Ionic Dry Body Brush
