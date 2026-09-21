@@ -13,18 +13,18 @@
  */
 
 export const BRAND_IDENTITY = {
-  name: 'ELVARIA BEAUTY',
+  Name: 'DOLLY ANN WELLS',
   legalName: 'ELVARIA BEAUTY LLC',
   pronunciation: 'El-va-ri-a Beauty',
   tagline: 'Comfort Starts With Your Skin.',
   subtagline: 'Thoughtfully designed body care for skin that deserves everyday comfort.',
   mission:
     'Balancing dermatology-inspired formulation with modern everyday ease. Developed for sensitive-feeling, dry, and moisture-compromised skin.',
-  contactEmail: 'care@elvariabeauty.com',
-  contactPhone: '+1 (800) 555-ELVARIA',
-  hours: 'Monday – Friday: 9:00 AM – 6:00 PM EST',
-  address: 'ELVARIA BEAUTY LLC, 450 Lexington Ave, New York, NY 10017',
-  whatsappNumber: '+18005553376',
+  contactEmail: 'Elvariabeautyllc@outlook.com',
+  contactPhone: '+12313354225',
+  hours: '24/7: ',
+  address: '5656 Line OAK ST APT 112B DALLAS, TX 75206',
+  whatsappNumber: '+12313354225',
   whatsappDefaultMsg: 'Hello ELVARIA BEAUTY Team, I would like assistance with my order.',
 };
 
