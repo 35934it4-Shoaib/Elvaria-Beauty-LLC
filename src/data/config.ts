@@ -139,8 +139,6 @@ export const CATEGORY_ASSETS = {
     description: 'Gentle everyday washes, conditioners, and nourishing rituals.',
     image: 'https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/Skincare_products_banner_design_2K_20260921074631.jpeg',
   },
-  // Baqi categories waisi hi rahengi...
-};
   'medicated-care': {
     title: 'Medicated Care',
     description: 'Targeted hydration formulas to relieve roughness and tightness.',
