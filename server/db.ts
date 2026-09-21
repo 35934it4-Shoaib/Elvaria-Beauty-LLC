@@ -780,17 +780,10 @@ class Database {
     try {
       if (fs.existsSync(DB_FILE)) {
         const content = fs.readFileSync(DB_FILE, 'utf-8');
-        const parsed = JSON.parse(content);
-        
-      const cleanImageUrl = (url: string) => {
-  return url; // Seedha aapka diya hua raw link hi return karega
+        const parsed = JSON.parse(content);     
+   const cleanImageUrl = (url: string) => {
+  return url;
 };
-          if (url.includes('1512290900672')) {
-            return 'https://images.unsplash.com/photo-1519735777090-ec97162dc266?auto=format&fit=crop&w=1200&q=85';
-          }
-          return url;
-        };
-
         const cleanedCategories = (parsed.categories || DEFAULT_CATEGORIES).map((c: Category) => ({
           ...c,
           image: cleanImageUrl(c.image),
