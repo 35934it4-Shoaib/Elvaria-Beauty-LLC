@@ -157,6 +157,6 @@ export const CATEGORY_ASSETS = {
   'tools-accessories': {
     title: 'Tools & Accessories',
     description: 'Application tools, dry brushes, and travel essentials.',
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=85',
+    image: 'https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/Skincare_products_in_botanical_e…_2K_20260921122139.jpeg',
   },
 };
