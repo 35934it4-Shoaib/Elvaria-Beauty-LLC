@@ -71,7 +71,7 @@ const DEFAULT_CATEGORIES: Category[] = [
     name: 'Body Care',
     slug: 'body-care',
     description: CATEGORY_ASSETS['body-care'].description,
-    image: CATEGORY_ASSETS['body-care'].image,
+   image: 'https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/Skincare_products_banner_design_2K_20260921074631.jpeg',
     order: 1,
     status: 'active',
   },
