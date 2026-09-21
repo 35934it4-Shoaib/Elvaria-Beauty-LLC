@@ -400,7 +400,7 @@
     },
     {
       "id": "prod-silicone-body-scrubber",
-      "name": "ELVARIA Hygienic Silicone Body Scrubber",
+      "name": "Hygienic Silicone Body Scrubber",
       "slug": "elvaria-silicone-scrubber",
       "sku": "ELV-SCS-004",
       "shortDescription": "Antimicrobial silicone scrubber replacing bacteria-harboring loofahs.",
@@ -411,7 +411,7 @@
       "stock": 110,
       "lowStockThreshold": 15,
       "images": [
-        "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=85"
+        "https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/silcone%20body%20scaper.jpeg"
       ],
       "ingredientIds": [],
       "benefits": [
