@@ -103,7 +103,7 @@ const BASE_PRODUCT_ASSETS: Record<string, string[]> = {
 
   // ELVARIA Hygienic Silicone Body Scrubber
   'elvaria-silicone-scrubber': [
-    'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=85',
+    'https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/Skincare_products_in_botanical_e…_2K_20260921122139.jpeg',
   ],
 
   // ELVARIA Travel Protection Pouch & Pump Locks
