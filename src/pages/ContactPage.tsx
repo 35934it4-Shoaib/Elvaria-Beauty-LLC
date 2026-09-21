@@ -15,7 +15,7 @@ export const ContactPage: React.FC = () => {
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
 
-  const cleanPhone = (settings?.whatsappPhone || '+18005553376').replace(/[^\d+]/g, '');
+  const cleanPhone = (settings?.whatsappPhone || '+12313354225').replace(/[^\d+]/g, '');
   const waUrl = `https://wa.me/${cleanPhone.replace('+', '')}?text=${encodeURIComponent(
     'Hi ELVARIA BEAUTY, I would like to inquire about your products.'
   )}`;
@@ -91,7 +91,7 @@ export const ContactPage: React.FC = () => {
               className="inline-flex items-center gap-2 bg-[#25D366] text-white px-5 py-2.5 text-xs font-semibold rounded hover:bg-[#1EBE5D] transition-colors"
             >
               <MessageCircle className="w-4 h-4 fill-white" />
-              <span>Chat on WhatsApp: {settings?.whatsappPhone || '+92 300 1234567'}</span>
+              <span>Chat on WhatsApp: {settings?.whatsappPhone || '+12313354225'}</span>
             </a>
           </div>
 
@@ -101,8 +101,8 @@ export const ContactPage: React.FC = () => {
               <Mail className="w-4 h-4 text-[#62756A] mt-0.5 shrink-0" />
               <div>
                 <strong className="block text-[#202420] font-semibold">Email Us</strong>
-                <a href={`mailto:${settings?.supportEmail || settings?.contactEmail || 'care@elvariabeauty.com'}`} className="text-[#68706B] hover:text-[#62756A]">
-                  {settings?.supportEmail || settings?.contactEmail || 'care@elvariabeauty.com'}
+                <a href={`mailto:${settings?.supportEmail || settings?.contactEmail || 'Elvariabeautyllc@outlook.com'}`} className="text-[#68706B] hover:text-[#62756A]">
+                  {settings?.supportEmail || settings?.contactEmail || 'Elvariabeautyllc@outlook.com'}
                 </a>
               </div>
             </div>
@@ -119,7 +119,7 @@ export const ContactPage: React.FC = () => {
               <Clock className="w-4 h-4 text-[#62756A] mt-0.5 shrink-0" />
               <div>
                 <strong className="block text-[#202420] font-semibold">Operating Hours</strong>
-                <span className="text-[#68706B]">Monday &ndash; Saturday: 9:00 AM &ndash; 7:00 PM PKT</span>
+                <span className="text-[#68706B]">Monday &ndash; Sunday:24/7 PT</span>
               </div>
             </div>
 
@@ -127,7 +127,7 @@ export const ContactPage: React.FC = () => {
               <MapPin className="w-4 h-4 text-[#62756A] mt-0.5 shrink-0" />
               <div>
                 <strong className="block text-[#202420] font-semibold">Headquarters & Fulfillment</strong>
-                <span className="text-[#68706B]">Lahore, Punjab, Pakistan</span>
+                <span className="text-[#68706B]">5556 lINE OAK ST APT 112B DALLAS, TX75206</span>
               </div>
             </div>
           </div>
@@ -204,7 +204,7 @@ export const ContactPage: React.FC = () => {
                     type="tel"
                     value={phone}
                     onChange={(e) => setPhone(e.target.value)}
-                    placeholder="0300-1234567"
+                    placeholder="+1301234567"
                     className="w-full bg-[#F7F5F0] border border-[#DCDDD8] p-2.5 text-xs text-[#202420] focus:outline-none focus:border-[#62756A]"
                   />
                 </div>
