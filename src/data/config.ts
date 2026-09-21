@@ -137,7 +137,7 @@ export const CATEGORY_ASSETS = {
   'body-care': {
     title: 'Body Care',
     description: 'Gentle everyday washes, conditioners, and nourishing rituals.',
-    image: 'images/Skincare_products_banner_design_2K_20260921120939.jpeg',
+    image:'https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/Skincare_products_banner_design_2K_20260921120939.jpeg',
   },
   'medicated-care': {
     title: 'Medicated Care',
