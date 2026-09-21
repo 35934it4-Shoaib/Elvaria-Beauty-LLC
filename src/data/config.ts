@@ -60,7 +60,7 @@ const BASE_PRODUCT_ASSETS: Record<string, string[]> = {
   'elvaria-medicated-body-lotion': [
     'https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=85',
     'https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&w=1200&q=85',
-    'https://images.unsplash.com/photo-1570197788417-0e82375c9371?auto=format&fit=crop&w=1200&q=85',
+    'https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/Skincare_products_in_botanical_e…_2K_20260921122139.jpeg',
     'https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=1200&q=85',
   ],
 
