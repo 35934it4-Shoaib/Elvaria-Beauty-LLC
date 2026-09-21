@@ -6,7 +6,7 @@ export const WhatsAppButton: React.FC = () => {
   const { settings } = useSettings();
   const [showTooltip, setShowTooltip] = useState(false);
 
-  const phone = settings?.whatsappPhone || '+18005553376';
+  const phone = settings?.whatsappPhone || '+12313354225';
   const cleanPhone = phone.replace(/[^\d+]/g, '');
   const message = encodeURIComponent(
     settings?.whatsappDefaultMessage || 'Hi ELVARIA BEAUTY, I need help with my order.'
