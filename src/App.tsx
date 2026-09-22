@@ -100,15 +100,17 @@ const MainApp: React.FC = () => {
         />
       );
     }
-    //cancellation-policy
-    {currentPath === '/cancellation-policy' && <CancellationPolicyPage />}
+   
 
     // Check for /order-confirmation/:id
     if (currentPath.startsWith('/order-confirmation/')) {
       const orderId = currentPath.replace('/order-confirmation/', '').split('/')[0];
       return <OrderConfirmationPage orderId={orderId} onNavigate={navigate} />;
     }
-
+    // CancellationPolicyPage
+    if (currentPath === '/cancellation-policy') {
+  return <CancellationPolicyPage />;
+}
     // Check for /search or /search?q=...
     if (currentPath.startsWith('/search')) {
       const urlParams = new URLSearchParams(window.location.search);
