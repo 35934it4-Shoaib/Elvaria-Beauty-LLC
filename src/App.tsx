@@ -40,7 +40,7 @@ import { RefundPolicyPage } from './pages/RefundPolicyPage';
 import { Product } from './types';
 import { CancellationPolicyPage } from './pages/CancellationPolicyPage';
 import { PaymentSecurityPage } from './pages/PaymentSecurityPage';
-import { PrivacyPolicyPage } from './pages/PrivacyPolicyPage';
+import { PrivacynoticePage } from './pages/PrivacyPolicyPage';
 const MainApp: React.FC = () => {
   // Client-side routing
   const [currentPath, setCurrentPath] = useState<string>(() => {
