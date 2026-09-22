@@ -38,7 +38,7 @@ import { TermsPage } from './pages/TermsPage';
 import { ShippingPolicyPage } from './pages/ShippingPolicyPage';
 import { RefundPolicyPage } from './pages/RefundPolicyPage';
 import { Product } from './types';
-
+import { CancellationPolicyPage } from './pages/CancellationPolicyPage';
 const MainApp: React.FC = () => {
   // Client-side routing
   const [currentPath, setCurrentPath] = useState<string>(() => {
