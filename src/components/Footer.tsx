@@ -208,6 +208,11 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                   Return & Refund Policy
                 </button>
               </li>
+              <li>
+                <button onClick={() => onNavigate('/cancellation-policy')} className="hover:text-[#4E6155] transition-colors text-left cursor-pointer">
+                  Order Cancellation Policy
+                </button>
+              </li>
             </ul>
           </div>
         </div>
