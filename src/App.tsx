@@ -100,6 +100,8 @@ const MainApp: React.FC = () => {
         />
       );
     }
+    //cancellation-policy
+    {currentPath === '/cancellation-policy' && <CancellationPolicyPage />}
 
     // Check for /order-confirmation/:id
     if (currentPath.startsWith('/order-confirmation/')) {
