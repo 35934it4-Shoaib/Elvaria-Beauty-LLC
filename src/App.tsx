@@ -39,6 +39,7 @@ import { ShippingPolicyPage } from './pages/ShippingPolicyPage';
 import { RefundPolicyPage } from './pages/RefundPolicyPage';
 import { Product } from './types';
 import { CancellationPolicyPage } from './pages/CancellationPolicyPage';
+import { PaymentSecurityPage } from './pages/PaymentSecurityPage';
 const MainApp: React.FC = () => {
   // Client-side routing
   const [currentPath, setCurrentPath] = useState<string>(() => {
@@ -110,6 +111,9 @@ const MainApp: React.FC = () => {
     // CancellationPolicyPage
     if (currentPath === '/cancellation-policy') {
   return <CancellationPolicyPage />;
+}
+    if (currentPath === '/payment-security') {
+  return <PaymentSecurityPage />;
 }
     // Check for /search or /search?q=...
     if (currentPath.startsWith('/search')) {
