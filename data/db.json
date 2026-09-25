@@ -398,6 +398,167 @@
       "createdAt": "2026-09-19T23:56:09.564Z",
       "updatedAt": "2026-09-19T23:56:09.564Z"
     },
+{
+      "id": "prod-new-item-1",
+      "name": "ELVARIA Botanical Glow Body Oil",
+      "slug": "elvaria-botanical-glow-body-oil",
+      "sku": "ELV-BGB-150",
+      "shortDescription": "Lightweight botanical body oil for an instant radiant and silky finish.",
+      "description": "A fast-absorbing body oil formulated with nourishing plant extracts to lock in moisture and leave your skin with a healthy, luminous, and non-greasy glow all day long.",
+      "price": 32,
+      "size": "150 ml / 5.1 fl oz",
+      "category": "Body Care",
+      "stock": 50,
+      "lowStockThreshold": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1608248597359-f53835f49e25?auto=format&fit=crop&w=800&q=85",
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=85"
+      ],
+      "ingredientIds": ["ing-vitamin-e"],
+      "benefits": [
+        {
+          "title": "Instant Radiance",
+          "description": "Provides a healthy, luminous sheen without any heavy residue."
+        },
+        {
+          "title": "Silky Hydration",
+          "description": "Melts smoothly into skin to seal in daily moisture."
+        }
+      ],
+      "howToUse": [
+        "Massage gently onto damp skin right after your daily shower for best results."
+      ],
+      "warnings": "For external body use only. Keep out of reach of children.",
+      "seoTitle": "ELVARIA BEAUTY Botanical Glow Body Oil",
+      "seoDescription": "Lightweight dry body oil for a glowing, silky skin texture.",
+      "isFeatured": true,
+      "status": "published",
+      "rating": 5.0,
+      "reviewCount": 12,
+      "createdAt": "2026-09-25T00:00:00.000Z",
+      "updatedAt": "2026-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "prod-new-item-2",
+      "name": "ELVARIA Velvet Smoothing Body Polish",
+      "slug": "elvaria-velvet-smoothing-body-polish",
+      "sku": "ELV-SBP-200",
+      "shortDescription": "Gentle polishing body scrub for a velvety soft skin texture.",
+      "description": "A fine-grain exfoliating body polish designed to gently sweep away surface impurities and dullness, revealing smoother, refreshed skin ready for daily hydration.",
+      "price": 26,
+      "size": "200 ml / 6.7 fl oz",
+      "category": "Body Care",
+      "stock": 60,
+      "lowStockThreshold": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=85",
+        "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=800&q=85"
+      ],
+      "ingredientIds": ["ing-glycerin"],
+      "benefits": [
+        {
+          "title": "Gentle Buffing",
+          "description": "Removes dead surface cells without stripping natural moisture."
+        },
+        {
+          "title": "Refreshed Feel",
+          "description": "Leaves skin feeling touchably soft and revitalized."
+        }
+      ],
+      "howToUse": [
+        "Massage in circular motions 2-3 times a week on wet skin, then rinse thoroughly."
+      ],
+      "warnings": "For external use only. Avoid broken or freshly shaved skin.",
+      "seoTitle": "ELVARIA BEAUTY Velvet Smoothing Body Polish",
+      "seoDescription": "Polishing body scrub for smooth and soft skin texture.",
+      "isFeatured": true,
+      "status": "published",
+      "rating": 4.9,
+      "reviewCount": 15,
+      "createdAt": "2026-09-25T00:00:00.000Z",
+      "updatedAt": "2026-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "prod-new-item-3",
+      "name": "ELVARIA Daily Comfort Hand Cream",
+      "slug": "elvaria-daily-comfort-hand-cream",
+      "sku": "ELV-DHC-75",
+      "shortDescription": "Nourishing daily hand cream crafted to soften and protect hands.",
+      "description": "A pocket-sized rich conditioning cream created to comfort hardworking hands. Absorbs cleanly to shield against environmental dryness caused by frequent handwashing.",
+      "price": 18,
+      "size": "75 ml / 2.5 fl oz",
+      "category": "Moisturizers",
+      "stock": 100,
+      "lowStockThreshold": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1585751119414-ef2636f9aede?auto=format&fit=crop&w=800&q=85",
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=85"
+      ],
+      "ingredientIds": ["ing-shea-butter", "ing-ceramides"],
+      "benefits": [
+        {
+          "title": "Targeted Nourishment",
+          "description": "Instantly softens dry knuckles and fingertips."
+        },
+        {
+          "title": "Non-Greasy Shield",
+          "description": "Protects hands with a breathable moisture barrier."
+        }
+      ],
+      "howToUse": [
+        "Apply a small amount to clean hands and massage thoroughly as needed throughout the day."
+      ],
+      "warnings": "For external use only.",
+      "seoTitle": "ELVARIA BEAUTY Daily Comfort Hand Cream",
+      "seoDescription": "Nourishing hand cream with shea butter for everyday hand care.",
+      "isFeatured": true,
+      "status": "published",
+      "rating": 4.8,
+      "reviewCount": 20,
+      "createdAt": "2026-09-25T00:00:00.000Z",
+      "updatedAt": "2026-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "prod-new-item-4",
+      "name": "ELVARIA Refreshing Hydrating Mist",
+      "slug": "elvaria-refreshing-hydrating-mist",
+      "sku": "ELV-RHM-120",
+      "shortDescription": "Revitalizing body and face hydration mist for an instant refreshment.",
+      "description": "A fine-spraying botanical mist packed with humectants to instantly quench thirsty skin on the go, leaving a dewy and refreshed feeling anytime.",
+      "price": 22,
+      "size": "120 ml / 4.0 fl oz",
+      "category": "Body Care",
+      "stock": 75,
+      "lowStockThreshold": 12,
+      "images": [
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=85",
+        "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=85"
+      ],
+      "ingredientIds": ["ing-glycerin", "ing-panthenol"],
+      "benefits": [
+        {
+          "title": "Instant Refresh",
+          "description": "Delivers an immediate burst of cooling hydration."
+        },
+        {
+          "title": "On-The-Go Care",
+          "description": "Perfect for a quick moisture boost during dry or warm days."
+        }
+      ],
+      "howToUse": [
+        "Hold bottle 8-10 inches away from skin and mist gently. Let absorb naturally."
+      ],
+      "warnings": "Avoid direct spraying into eyes.",
+      "seoTitle": "ELVARIA BEAUTY Refreshing Hydrating Mist",
+      "seoDescription": "Revitalizing hydration mist for instant skin refreshment.",
+      "isFeatured": true,
+      "status": "published",
+      "rating": 4.9,
+      "reviewCount": 18,
+      "createdAt": "2026-09-25T00:00:00.000Z",
+      "updatedAt": "2026-09-25T00:00:00.000Z"
+    }
+    
     {
       "id": "prod-silicone-body-scrubber",
       "name": "Hygienic Silicone Body Scrubber",
