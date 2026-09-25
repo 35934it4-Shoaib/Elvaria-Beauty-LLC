@@ -42,7 +42,7 @@ export const HERO_ASSETS = {
   lotionTexture:
     'https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&w=1200&q=85',
   lifestyle:
-    'lifestyle: "https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/story%20visual.jpg"',
+    'https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/story%20visual.jpg',
   lifestyleBathroom:
     'https://images.unsplash.com/photo-1570197788417-0e82375c9371?auto=format&fit=crop&w=1400&q=85',
   editorialCare:
