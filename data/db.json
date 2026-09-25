@@ -422,8 +422,8 @@
       "stock": 60,
       "lowStockThreshold": 10,
       "images": [
-        "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=85",
-        "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=800&q=85"
+        "https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/lyssia2.jpg",
+        "https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/lyssia.jpg"
       ],
       "ingredientIds": ["ing-glycerin"],
       "benefits": [
@@ -462,8 +462,8 @@
       "stock": 100,
       "lowStockThreshold": 15,
       "images": [
-        "https://images.unsplash.com/photo-1585751119414-ef2636f9aede?auto=format&fit=crop&w=800&q=85",
-        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=85"
+        "https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/handcream.jpg",
+        "https://raw.githubusercontent.com/35934it4-Shoaib/Elvaria-Beauty-LLC/main/images/handcream2.jpg"
       ],
       "ingredientIds": ["ing-shea-butter", "ing-ceramides"],
       "benefits": [
