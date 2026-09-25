@@ -49,15 +49,15 @@
   "products": [
     {
       "id": "prod-elvaria-body-lotion",
-      "name": "ELVARIA Medicated Body Lotion",
-      "slug": "elvaria-medicated-body-lotion",
+      "name": "ELVARIA Daily Body Lotion",
+      "slug": "elvaria-daily-body-lotion",
       "sku": "ELV-MBL-250",
       "shortDescription": "Daily moisture and comfort for skin that feels dry, rough or sensitive.",
-      "description": "ELVARIA BEAUTY Medicated Body Lotion is designed to become an essential part of your daily body-care routine. Its moisturizing approach is formulated to leave dry-feeling skin feeling softer, smoother, and deeply comforted without a sticky or heavy residue.",
+      "description": "ELVARIA BEAUTY Daily Body Lotion is designed to become an essential part of your daily body-care routine. Its moisturizing approach is formulated to leave dry-feeling skin feeling softer, smoother, and deeply comforted without a sticky or heavy residue.",
       "price": 29,
       "salePrice": 26,
       "size": "250 ml / 8.4 fl oz",
-      "category": "Medicated Care",
+      "category": "Body Care",
       "stock": 120,
       "lowStockThreshold": 15,
       "images": [
@@ -98,41 +98,12 @@
         "Always follow label directions and store at room temperature."
       ],
       "warnings": "For external body use only. Avoid contact with eyes; if contact occurs, rinse thoroughly with clean water. Discontinue use if irritation develops. Keep out of reach of children. Store in a cool, dry place away from direct sunlight.",
-      "seoTitle": "ELVARIA BEAUTY Medicated Body Lotion — Daily Skin Comfort & Hydration",
-      "seoDescription": "Shop ELVARIA BEAUTY Medicated Body Lotion ($29.00). Thoughtful dermatology-inspired daily body care for dry and sensitive-feeling skin. Fast international delivery.",
+      "seoTitle": "ELVARIA BEAUTY Daily Body Lotion — Daily Skin Comfort & Hydration",
+      "seoDescription": "Shop ELVARIA BEAUTY Daily Body Lotion ($29.00). Thoughtfully designed daily body care for dry and sensitive-feeling skin. Fast international delivery.",
       "isFeatured": true,
       "status": "published",
       "rating": 4.9,
       "reviewCount": 48,
-      "bundles": [
-        {
-          "id": "bundle-single",
-          "name": "Single Bottle (250 ml)",
-          "sizeText": "1 × 250 ml pump bottle",
-          "price": 29
-        },
-        {
-          "id": "bundle-duo",
-          "name": "Daily Duo (2-Pack)",
-          "sizeText": "2 × 250 ml bottles",
-          "price": 52,
-          "savingsText": "Save $6.00"
-        },
-        {
-          "id": "bundle-trio",
-          "name": "Family Trio (3-Pack)",
-          "sizeText": "3 × 250 ml bottles",
-          "price": 74,
-          "savingsText": "Save $13.00 + Free Shipping"
-        },
-        {
-          "id": "bundle-routine",
-          "name": "Skin Comfort Routine Bundle",
-          "sizeText": "2 × Lotion + Dry Body Brush",
-          "price": 64,
-          "savingsText": "Best Value Bundle"
-        }
-      ],
       "createdAt": "2026-09-19T23:56:09.563Z",
       "updatedAt": "2026-09-19T23:56:09.564Z"
     },
@@ -222,7 +193,7 @@
       ],
       "warnings": "Avoid contact with eyes. In case of contact, rinse thoroughly with water.",
       "seoTitle": "ELVARIA BEAUTY Daily Hydrating Body Wash — Gentle Sulfate-Free Care",
-      "seoDescription": "Dermatology-inspired daily hydrating body cleanser for dry skin.",
+      "seoDescription": "Daily hydrating body cleanser for dry skin.",
       "isFeatured": true,
       "status": "published",
       "rating": 4.9,
@@ -304,9 +275,9 @@
       "howToUse": [
         "01. Use dry on dry skin before stepping into the shower.",
         "02. Brush with light, upward strokes toward the heart starting from feet.",
-        "03. Follow with warm shower and ELVARIA BEAUTY Medicated Body Lotion."
+        "03. Follow with warm shower and ELVARIA BEAUTY Daily Body Lotion."
       ],
-      "warnings": "Do not use on broken, irritated, sunburned, or eczema-prone lesions.",
+      "warnings": "Do not use on broken, irritated, or sunburned skin.",
       "seoTitle": "ELVARIA BEAUTY Natural Ionic Dry Body Brush — Body Care Accessories",
       "seoDescription": "Premium dry body brush for radiant, smoother skin texture.",
       "isFeatured": true,
@@ -398,8 +369,8 @@
       "createdAt": "2026-09-19T23:56:09.564Z",
       "updatedAt": "2026-09-19T23:56:09.564Z"
     },
-{
-      "id": "prod-new-item-1",
+    {
+      "id": "prod-botanical-glow-oil",
       "name": "ELVARIA Botanical Glow Body Oil",
       "slug": "elvaria-botanical-glow-body-oil",
       "sku": "ELV-BGB-150",
@@ -439,7 +410,7 @@
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
     {
-      "id": "prod-new-item-2",
+      "id": "prod-velvet-body-polish",
       "name": "ELVARIA Velvet Smoothing Body Polish",
       "slug": "elvaria-velvet-smoothing-body-polish",
       "sku": "ELV-SBP-200",
@@ -479,7 +450,7 @@
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
     {
-      "id": "prod-new-item-3",
+      "id": "prod-comfort-hand-cream",
       "name": "ELVARIA Daily Comfort Hand Cream",
       "slug": "elvaria-daily-comfort-hand-cream",
       "sku": "ELV-DHC-75",
@@ -519,7 +490,7 @@
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
     {
-      "id": "prod-new-item-4",
+      "id": "prod-refreshing-mist",
       "name": "ELVARIA Refreshing Hydrating Mist",
       "slug": "elvaria-refreshing-hydrating-mist",
       "sku": "ELV-RHM-120",
@@ -557,8 +528,7 @@
       "reviewCount": 18,
       "createdAt": "2026-09-25T00:00:00.000Z",
       "updatedAt": "2026-09-25T00:00:00.000Z"
-    }
-    
+    },
     {
       "id": "prod-silicone-body-scrubber",
       "name": "Hygienic Silicone Body Scrubber",
@@ -699,7 +669,7 @@
     {
       "id": "rev-sample-1",
       "productId": "prod-elvaria-body-lotion",
-      "productName": "ELVARIA Medicated Body Lotion",
+      "productName": "ELVARIA Daily Body Lotion",
       "authorName": "Sarah M., Verified Customer",
       "authorEmail": "sarah.m@example.com",
       "rating": 5,
@@ -714,7 +684,7 @@
     {
       "id": "rev-sample-2",
       "productId": "prod-elvaria-body-lotion",
-      "productName": "ELVARIA Medicated Body Lotion",
+      "productName": "ELVARIA Daily Body Lotion",
       "authorName": "Elena R., Verified Buyer",
       "authorEmail": "elena.r@example.com",
       "rating": 5,
@@ -786,7 +756,7 @@
     {
       "id": "faq-daily",
       "question": "Can I use ELVARIA BEAUTY every day?",
-      "answer": "Yes. ELVARIA BEAUTY Medicated Body Lotion is thoughtfully formulated for everyday use. We recommend applying it once or twice daily, particularly after bathing when skin absorbs moisture most effectively.",
+      "answer": "Yes. ELVARIA BEAUTY Daily Body Lotion is thoughtfully formulated for everyday use. We recommend applying it once or twice daily, particularly after bathing when skin absorbs moisture most effectively.",
       "category": "usage",
       "order": 1,
       "isPublished": true
@@ -842,7 +812,7 @@
     {
       "id": "faq-eczema",
       "question": "Does ELVARIA BEAUTY treat eczema or psoriasis?",
-      "answer": "No. ELVARIA BEAUTY Medicated Body Lotion is designed for cosmetic moisturization and comforting dry, sensitive-feeling skin. It is not formulated to diagnose, cure, mitigate, treat, or prevent medical skin diseases such as eczema, psoriasis, or bacterial/fungal infections. If you suspect you have a clinical skin condition, please seek guidance from a licensed dermatologist or medical doctor.",
+      "answer": "No. ELVARIA BEAUTY products are designed for cosmetic moisturization and comforting dry, sensitive-feeling skin. It is not formulated to diagnose, cure, mitigate, treat, or prevent medical skin diseases such as eczema, psoriasis, or bacterial/fungal infections. If you suspect you have a clinical skin condition, please seek guidance from a licensed dermatologist or medical doctor.",
       "category": "medical",
       "order": 8,
       "isPublished": true
@@ -858,7 +828,7 @@
     {
       "id": "faq-returns",
       "question": "What is your return and refund policy?",
-      "answer": "We offer a 30-day satisfaction guarantee. If ELVARIA BEAUTY does not meet your skin comfort expectations, contact care@ELVARIA BEAUTY.com with your order number for an easy, hassle-free return or full product refund.",
+      "answer": "We offer a 30-day satisfaction guarantee. If ELVARIA BEAUTY does not meet your skin comfort expectations, contact care@elvariabeauty.com with your order number for an easy, hassle-free return or full product refund.",
       "category": "general",
       "order": 10,
       "isPublished": true
