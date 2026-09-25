@@ -371,7 +371,7 @@
     },
     {
       "id": "prod-botanical-glow-oil",
-      "name": "ELVARIA Botanical Glow Body Oil",
+      "name": "Botanical Glow Body Oil",
       "slug": "elvaria-botanical-glow-body-oil",
       "sku": "ELV-BGB-150",
       "shortDescription": "Lightweight botanical body oil for an instant radiant and silky finish.",
@@ -411,7 +411,7 @@
     },
     {
       "id": "prod-velvet-body-polish",
-      "name": "ELVARIA Velvet Smoothing Body Polish",
+      "name": "Velvet Smoothing Body Polish",
       "slug": "elvaria-velvet-smoothing-body-polish",
       "sku": "ELV-SBP-200",
       "shortDescription": "Gentle polishing body scrub for a velvety soft skin texture.",
@@ -451,7 +451,7 @@
     },
     {
       "id": "prod-comfort-hand-cream",
-      "name": "ELVARIA Daily Comfort Hand Cream",
+      "name": "Daily Comfort Hand Cream",
       "slug": "elvaria-daily-comfort-hand-cream",
       "sku": "ELV-DHC-75",
       "shortDescription": "Nourishing daily hand cream crafted to soften and protect hands.",
@@ -491,7 +491,7 @@
     },
     {
       "id": "prod-refreshing-mist",
-      "name": "ELVARIA Refreshing Hydrating Mist",
+      "name": "Refreshing Hydrating Mist",
       "slug": "elvaria-refreshing-hydrating-mist",
       "sku": "ELV-RHM-120",
       "shortDescription": "Revitalizing body and face hydration mist for an instant refreshment.",
